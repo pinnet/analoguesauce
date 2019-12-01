@@ -1,0 +1,77 @@
+DE,Description goes here
+DS,inserter
+SP,D:\dev\analoguesauce\Teletext\Pages\AnalogueSauce.tti
+PN,1ff01
+SC,0001
+PS,8000
+CT,8,T
+RE,0
+OL,0,P100    ASauceEmppBDAY dd MTH C hh:nn.ss
+OL,1,F                                  DD1/3
+OL,2,              W`~}0 G                 
+OL,3,              Wj/##/5 G                 
+OL,4,              Qh4 G                 
+OL,5,              Qj?//o5 G                 
+OL,6,              Q6G57Qi G                 
+OL,7,              Qux||tz G                 
+OL,8,              Q G                 
+OL,9,              Q G                 
+OL,10,             Qj5G                 
+OL,11,             Q~}G                 
+OL,12,             QG                 
+OL,13,            Qj5G                
+OL,14,            Q?!    "oG                
+OL,15,            QG      QG                
+OL,16,            QGASauceQG                
+OL,17,            QG      QG                
+OL,18,            QG V1.0 QG                
+OL,19,            QG      QG                
+OL,20,            Qt      xG                
+OL,21,            QG                
+OL,22,WQo?W
+OL,23,WQ########W
+PN,1ff02
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,P100    ASauceEmppBDAY dd MTH C hh:nn.ss
+OL,1,                             D       2/3
+OL,3,   EM        Analogue Sauce             
+OL,5,VV%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+OL,6,DV% Bcounts towards your five a day QV% 
+OL,7,V %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+OL,9,  A raspian respin for the Raspberry Pi 
+OL,10,   dedicated to provide an analogue     
+OL,11,    video solution for testing or       
+OL,12,       display on post modern           
+OL,13,              equipment                 
+OL,16, B    for more information see the      
+OL,17,  B        github repository            
+OL,19,Chttps://github.com/pinnet/analoguesauce
+OL,21, TD    (C) dannyarnold.com 2019         
+OL,23,                              D         
+PN,1ff03
+SC,0003
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXASauceEmppBDAY dd MTH C hh:nn.ss
+OL,1,                                    D3/3
+OL,3,EAnalogue Sauce                         
+OL,4, --------------                         
+OL,5,FBuilt on technoloiges by multiple open 
+OL,6,Fsource software developers this includ-
+OL,7,Fes but is not limited to the following 
+OL,8,C1) Vbit 2 by Peter Kwan                
+OL,9,C   github.com/peterkvt80/vbit2         
+OL,11,C2) raspi-teletext by Alistair Buxton   
+OL,12, C  github.com/ali1234/raspi-teletext   
+OL,14,C3) Raspbian Buster by the Raspberry Pi 
+OL,15,C   Foundation                          
+OL,17,C4) Omxplayer by popcornmix (KODI)      
+OL,18,C   github.com/popcornmix/omxplayer     
+OL,20,C5) Framebuffer Imageviewer (fbi) by    
+OL,21,C   Gerd Hoffmann <gerd@kraxel.org>     
+OL,23,C6) Analogue Sauce installer by pinnet  
+OL,24,C   github.com/pinnet/analoguesauce     
