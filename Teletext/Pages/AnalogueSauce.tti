@@ -1,7 +1,7 @@
-DE,Description goes here
+DE,Analogue Sauce the best sauce for NEWS
 DS,inserter
 SP,D:\dev\analoguesauce\Teletext\Pages\AnalogueSauce.tti
-PN,1ff01
+PN,10001
 SC,0001
 PS,8000
 CT,8,T
@@ -12,8 +12,8 @@ OL,2,              W`~}0 G
 OL,3,              Wj/##/5 G                 
 OL,4,              Qh4 G                 
 OL,5,              Qj?//o5 G                 
-OL,6,              Q6G57Qi G                 
-OL,7,              Qux||tz G                 
+OL,6,              Q6G57Qi                   
+OL,7,              Qux||tz                   
 OL,8,              Q G                 
 OL,9,              Q G                 
 OL,10,             Qj5G                 
@@ -26,11 +26,12 @@ OL,16,            QGASauceQG
 OL,17,            QG      QG                
 OL,18,            QG V1.0 QG                
 OL,19,            QG      QG                
-OL,20,            Qt      xG                
-OL,21,            QG                
-OL,22,WQo?W
-OL,23,WQ########W
-PN,1ff02
+OL,20,T,,,,,,,,,,,Qt      xT,,,,,,,,,,,,,,, 
+OL,21,T///////////QT/////////////// 
+OL,22,TQo?T 
+OL,23,TQ########T~ 
+OL,24,T 
+PN,10002
 SC,0002
 PS,8000
 CT,8,T
@@ -51,7 +52,7 @@ OL,17,  B        github repository
 OL,19,Chttps://github.com/pinnet/analoguesauce
 OL,21, TD    (C) dannyarnold.com 2019         
 OL,23,                              D         
-PN,1ff03
+PN,10003
 SC,0003
 PS,8000
 CT,8,T
